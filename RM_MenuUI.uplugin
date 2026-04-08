@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "RMMenuSystemUI",
+	"Description": "Reuseable menu System (Common ui)",
+	"Category": "Other",
+	"CreatedBy": "RMACE",
+	"CreatedByURL": "",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+    "Modules": [
+        {
+            "Name": "RMMenuSystemUI",
+            "Type": "Runtime",
+            "LoadingPhase": "Default"
+        }
+    ]
+}
